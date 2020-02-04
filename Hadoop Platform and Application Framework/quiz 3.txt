@@ -15,7 +15,7 @@ Check options that are methods of using/accessing Hive
 
 Check features that apply for HBase
 	Non-relational distributed database
-	//Consistency
+	Consistency
 	Compression
 	//Relational Database
 
