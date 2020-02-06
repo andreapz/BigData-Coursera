@@ -1,0 +1,31 @@
+1 Which of these kinds of data motivated the Map/Reduce framework?
+3 ok
+
+
+2.Question 2
+What is the organizing data structure for map/reduce programs?
+2 ok
+
+
+3.Question 3
+In map/reduce framework, which of these logistics does Map/Reduce do with the map function?
+2 ok
+
+
+4.Question 4
+Map/Reduce performs a ‘shuffle’ and grouping. That means it...
+1 ok
+
+5.Question 5
+In the word count example, what is the key?
+3 ok
+
+
+6.Question 6
+Streaming map/reduce allows mappers and reducers to be written in what languages:
+5 ok
+
+
+7.Question 7
+The assignment asked you to run with 2 reducers. When you use 2 reducers instead of 1 reducer, what is the difference in global sort order?
+1
